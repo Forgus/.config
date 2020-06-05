@@ -1,0 +1,91 @@
+0
+/usr/share/backgrounds/manjaro-wallpapers-18.0/default-adapta-lockscreen.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1544314554-b05e691ab63e.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1583364486567-ce2e045676e9.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1492604379759-7b2ca9f7ac09.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1574845246043-ee884fb64457.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1589308831866-46bd468bd552.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1547230325-dd44e4fd54ba.jpg
+/usr/share/backgrounds/xfce/antelope-canyon-984055.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1518387016291-398fb2d25bd4.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1512319490893-35324b7b770f.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1579317307531-f480affb9247.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1558946038-13da6dbf3909.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1519307558758-9fa05af823a1.jpg
+/usr/share/backgrounds/wallpapers-2018/palm-wave.jpg
+/usr/share/backgrounds/wallpapers-juhraya/wMJ_J3_by_Bogdan-Covaciu.jpg
+/usr/share/backgrounds/wallpapers-juhraya/Manjaro Juhraya_wave.png
+/usr/share/backgrounds/xfce/manjaro-maia-button.jpg
+/usr/share/backgrounds/xfce/xfce-teal.jpg
+/usr/share/backgrounds/xfce/illyria-default-lockscreen.jpg
+/usr/share/backgrounds/wallpapers-juhraya/wMJ_J2b_by_Bogdan-Covaciu.jpg
+/usr/share/backgrounds/xfce/manjaro-vcr.jpg
+/usr/share/backgrounds/xfce/sunset-3095689.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1585753873753-d84e332ac6f3.jpg
+/usr/share/backgrounds/wallpapers-juhraya/Manjaro Juhraya_square.png
+/usr/share/backgrounds/wallpapers-2018/mountains-1412683.jpg
+/usr/share/backgrounds/manjaro-wallpapers-18.0/Manjaro_Glass_1080p.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1571838403341-a02fa9d0e772.jpg
+/usr/share/backgrounds/wallpapers-juhraya/Manjaro Juhraya - Mr_Glitch(Projekt:Root).png
+/home/forgus/.config/variety/Downloaded/Bing/OHR.PontFawr_ZH-CN1780190468_1920x1080.jpg
+/usr/share/backgrounds/wallpapers-juhraya/Pastures_New_by_micsim35.jpg
+/usr/share/backgrounds/xfce/summer-time.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.GreatReefDay_ZH-CN1185297376_1920x1080.jpg
+/home/forgus/.config/variety/Favorites/OHR.MarleyBeach_ZH-CN0404372814_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1581497389226-8f6527fabbf1.jpg
+/usr/share/backgrounds/xfce/abstract-1780241.jpg
+/usr/share/backgrounds/xfce/nature-3058859.jpg
+/usr/share/backgrounds/xfce/city-sleeps.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1530341504235-126c9cf9b57f.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Italy (ID-7023).jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1519307558758-9fa05af823a1.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1573569076723-b410e4d828ce.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1585753873753-d84e332ac6f3.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Niagara Falls, Canada (ID-2116).jpg
+/usr/share/backgrounds/wallpapers-2018/palm-beach.jpg
+/usr/share/backgrounds/xfce/dreams.jpg
+/usr/share/backgrounds/manjaro-wallpapers-18.0/manjaro_maia_abstract.jpg
+/usr/share/backgrounds/wallpapers-2018/reflection-3095708.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Gairdner, Australia (ID-2303).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Llangrove, United Kingdom (ID-1476).jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1588628078677-aad3d2a56981.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1590248209225-aa7f2ae3bc19.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Keweenaw County, United States (ID-1447).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Antarctica (ID-5651).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Western Sahara (ID-6313).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Carbon County, United States (ID-2036).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Qingdao, China (ID-2228).jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Tanbar, Australia (ID-2382).jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1560222722-a95db1d8dc5b.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Qesm Siwah, Egypt (ID-6282).jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1567649657793-11e7c34ac000.jpg
+/home/forgus/.config/variety/Downloaded/Earth View/Dhofar Governorate, Oman (ID-2070).jpg
+/usr/share/backgrounds/xfce/nature-3181144.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.WhiteRimTrail_ZH-CN1574735777_1920x1080.jpg
+/usr/share/backgrounds/xfce/light-stripe-maia.jpg
+/usr/share/backgrounds/manjaro-wallpapers-18.0/Manjaro_Glass_1080p.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1518891083397-292595fa838c.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1554524271-462d55ce599a.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1571838403341-a02fa9d0e772.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1523760519884-6890e627697f.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1500862341394-4477ad3e8af2.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1590674023830-9107e8f6e2ff.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1568118086489-c429a226cf7f.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1581497389226-8f6527fabbf1.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1551418530-93920c7ef2a2.jpg
+/usr/share/backgrounds/xfce/manhattan-336708.jpg
+/usr/share/backgrounds/manjaro-wallpapers-18.0/default-adapta-lockscreen.jpg
+/usr/share/backgrounds/wallpapers-2018/palm-wave.jpg
+/usr/share/backgrounds/wallpapers-2018/snow-3404534.jpg
+/usr/share/backgrounds/xfce/buttongreen.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.EvergladesShowers_ZH-CN9209435866_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.GreatReefDay_ZH-CN1185297376_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1569128743289-018968d130be.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.OldManWhiskers_ZH-CN9321160932_1920x1080.jpg
+/usr/share/backgrounds/wallpapers-2018/city-sleeps.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.CheetahCubs_ZH-CN8863575385_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1576704453909-f5eae13b72af.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.MarleyBeach_ZH-CN0404372814_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.SantaCruzRiver_ZH-CN0935957996_1920x1080.jpg
+/home/forgus/.config/variety/Downloaded/Unsplash/photo-1589657827527-97b1525d8a80.jpg
+/home/forgus/.config/variety/Downloaded/Bing/OHR.WolfPup_ZH-CN1074513906_1920x1080.jpg
